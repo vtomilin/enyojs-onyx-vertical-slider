@@ -1,0 +1,1 @@
+[All code is courtesy of tjordan and Roy Sutton](http://stackoverflow.com/questions/16560608/enyo-js-vertical-sliders). I only slightly tweaked the CSS.
